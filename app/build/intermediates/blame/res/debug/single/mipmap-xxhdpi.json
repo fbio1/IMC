@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\picture.png",
+        "source": "C:\\Users\\fbio_\\Documents\\IMC\\app\\src\\main\\res\\mipmap-xxhdpi\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\fbio_\\Documents\\IMC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\fbio_\\Documents\\IMC\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

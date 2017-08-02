@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.eaj.tads.imc.Main2Activity"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alterar Dados"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteY="44dp"
+        tools:layout_editor_absoluteX="34dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="xx:"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteY="116dp"
+        tools:layout_editor_absoluteX="16dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="6"
+        android:inputType="numberDecimal"
+        android:singleLine="false"
+        tools:layout_editor_absoluteY="94dp"
+        tools:layout_editor_absoluteX="58dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="235dp"
+        android:layout_height="wrap_content"
+        android:background="#3F51B5"
+        android:onClick="alterarDados"
+        android:text="Alterar"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="175dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="235dp"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:onClick="cancelar"
+        android:text="Cancelar"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="241dp" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,4 @@
+#Wed Aug 02 12:11:09 GFT 2017
+base.0=C\:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=C\:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
