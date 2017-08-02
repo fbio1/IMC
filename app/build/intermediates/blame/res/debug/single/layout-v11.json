@@ -4,16 +4,36 @@
         "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
         "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
         "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
         "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
         "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
@@ -22,5 +42,9 @@
     {
         "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
         "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\fbio_\\.android\\build-cache\\57dbb1d83e17fd007ff85a1652acb2d1704e1451\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     }
 ]
