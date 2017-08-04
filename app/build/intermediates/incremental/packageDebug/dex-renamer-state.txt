@@ -1,7 +1,7 @@
-#Wed Aug 02 15:54:07 GFT 2017
-base.0=C\:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b084db6b838d63e6f0711df732575be0ac5b6f3f
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1cb7991d14268799a0d26c3c2ac3b5704bbfaec2\\classes.dex
-base.1=C\:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1cb7991d14268799a0d26c3c2ac3b5704bbfaec2
-file.0=C\:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b084db6b838d63e6f0711df732575be0ac5b6f3f\\classes.dex
+#Thu Aug 03 22:04:00 GFT 2017
+base.0=C\:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9e5aab0cb4a4eb23a90395ea897bf731010689a9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_afe906c8e7270c211ec02f72570a4244e7849c43\\classes.dex
+base.1=C\:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_afe906c8e7270c211ec02f72570a4244e7849c43
+file.0=C\:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9e5aab0cb4a4eb23a90395ea897bf731010689a9\\classes.dex

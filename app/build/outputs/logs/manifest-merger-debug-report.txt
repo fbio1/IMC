@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\fbio_\.android\build-cache\57dbb1d83e17fd007ff85a1652acb2d1704e1451\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\fbio_\.android\build-cache\10351ee5640b06af47b34e162c5bcf23460acb17\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\fbio_\.android\build-cache\c831688f049c836d9c4b6f6123f261f8092b82e4\output\AndroidManifest.xml:29:5-20
@@ -26,37 +26,37 @@ MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\fbio_\
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\fbio_\.android\build-cache\c41506df4281ae2d5252029738d578c047b8cd58\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fbio_\.android\build-cache\dfc2de30218857fb8d1c719035057b616b2b3a0a\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:9:9-44
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:9:9-44
 	android:allowBackup
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:7:9-39
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:7:9-39
 	android:theme
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:11:9-40
 activity#br.eaj.tads.imc.MainActivity
-ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:16:27-74
 activity#br.eaj.tads.imc.Main2Activity
-ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:19:9-60
+ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:19:9-60
 	android:name
-		ADDED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml:19:19-48
+		ADDED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml:19:19-48
 uses-sdk
-INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\fbio_\.android\build-cache\57dbb1d83e17fd007ff85a1652acb2d1704e1451\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\fbio_\.android\build-cache\10351ee5640b06af47b34e162c5bcf23460acb17\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\fbio_\.android\build-cache\c831688f049c836d9c4b6f6123f261f8092b82e4\output\AndroidManifest.xml:21:5-23:60
@@ -70,11 +70,11 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fb
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\fbio_\.android\build-cache\57dbb1d83e17fd007ff85a1652acb2d1704e1451\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\fbio_\AndroidStudioProjects\IMC-calculadora\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fbio_\AndroidStudioProjects\CalculadoraIMC\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\fbio_\.android\build-cache\57dbb1d83e17fd007ff85a1652acb2d1704e1451\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\fbio_\.android\build-cache\10351ee5640b06af47b34e162c5bcf23460acb17\output\AndroidManifest.xml:25:5-27:34

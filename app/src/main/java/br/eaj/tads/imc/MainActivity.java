@@ -24,14 +24,12 @@ public class MainActivity extends AppCompatActivity {
         Bundle params = new Bundle();
 
         TextView tx = (TextView) findViewById(R.id.textView3);
-        String controle = "Peso";
 
-        params.putDouble("tipo", Double.parseDouble(tx.getText().toString()));
-        params.putString("controle",controle);
+        params.putString("valor", tx.getText().toString());
+        params.putBoolean("controle", true);
 
         intent.putExtras(params);
         startActivityForResult(intent, peso);
-
     }
 
     public void alterarAltura(View v){
@@ -39,10 +37,9 @@ public class MainActivity extends AppCompatActivity {
         Bundle params = new Bundle();
 
         TextView tx1 = (TextView) findViewById(R.id.textView6);
-        String controle = "Altura";
 
-        params.putDouble("valor",Double.parseDouble(tx1.getText().toString()));
-        params.putString("controle",controle);
+        params.putString("valor",tx1.getText().toString());
+        params.putBoolean("controle", false);
 
         intent.putExtras(params);
         startActivityForResult(intent, altura);
@@ -53,18 +50,18 @@ public class MainActivity extends AppCompatActivity {
         if (requestCode == peso) {
             if (resultCode == RESULT_OK) {
                 Bundle params = data.getExtras();
-                double valor = params.getDouble("valor");
+                String valor = params.getString("valor");
                 TextView tx1 = (TextView) findViewById(R.id.textView3);
-                tx1.setText(""+valor);
+                tx1.setText(valor);
             } else if (resultCode == RESULT_CANCELED) {
                 Toast.makeText(this,"Cancelado", Toast.LENGTH_SHORT).show();
             }
         }else if(requestCode == altura){
             if(resultCode == RESULT_OK){
                 Bundle params = data.getExtras();
-                double valor = params.getDouble("valor");
+                String valor = params.getString("valor");
                 TextView tx1 = (TextView) findViewById(R.id.textView6);
-                tx1.setText(""+valor);
+                tx1.setText(valor);
             }else if(resultCode == RESULT_CANCELED){
                 Toast.makeText(this,"Cancelado", Toast.LENGTH_SHORT).show();
             }

@@ -1,26 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\picture.png",
-        "source": "C:\\Users\\fbio_\\Documents\\IMC\\app\\src\\main\\res\\mipmap-xxxhdpi\\picture.png"
+        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\picture.png",
-        "source": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\src\\main\\res\\mipmap-xxxhdpi\\picture.png"
+        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\picture.png",
+        "source": "C:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-xxxhdpi\\picture.png"
     },
     {
-        "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\fbio_\\Documents\\IMC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\fbio_\\AndroidStudioProjects\\IMC-calculadora\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\fbio_\\Documents\\IMC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\fbio_\\Documents\\IMC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

@@ -593,8 +593,8 @@ int id bottom 0x7f0b002a
 int id button 0x7f0b0065
 int id button2 0x7f0b0066
 int id button3 0x7f0b0067
-int id button4 0x7f0b006e
-int id button5 0x7f0b006f
+int id button4 0x7f0b006f
+int id button5 0x7f0b006d
 int id buttonPanel 0x7f0b0036
 int id cancel_action 0x7f0b0074
 int id chains 0x7f0b0010
@@ -607,7 +607,7 @@ int id customPanel 0x7f0b003f
 int id decor_content_parent 0x7f0b004d
 int id default_activity_button 0x7f0b0032
 int id disableHome 0x7f0b0015
-int id editText 0x7f0b006d
+int id editText 0x7f0b006e
 int id edit_query 0x7f0b0051
 int id end 0x7f0b0023
 int id end_padder 0x7f0b0086
@@ -680,11 +680,11 @@ int id textView10 0x7f0b006b
 int id textView11 0x7f0b006c
 int id textView12 0x7f0b006a
 int id textView2 0x7f0b005f
-int id textView3 0x7f0b0061
+int id textView3 0x7f0b0060
 int id textView4 0x7f0b0062
-int id textView5 0x7f0b0060
-int id textView6 0x7f0b0063
-int id textView7 0x7f0b0064
+int id textView5 0x7f0b0064
+int id textView6 0x7f0b0061
+int id textView7 0x7f0b0063
 int id textView8 0x7f0b0068
 int id textView9 0x7f0b0069
 int id time 0x7f0b007b
