@@ -1,4 +1,4 @@
-#Thu Aug 03 22:04:00 GFT 2017
+#Mon Aug 07 08:28:39 GFT 2017
 base.0=C\:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9e5aab0cb4a4eb23a90395ea897bf731010689a9
 renamed.1=classes.dex
 renamed.0=classes2.dex

@@ -9,8 +9,10 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class Main2Activity extends AppCompatActivity {
-
     boolean controle;
+    TextView texto;
+    EditText editor;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -18,28 +20,32 @@ public class Main2Activity extends AppCompatActivity {
 
         Bundle params = getIntent().getExtras();
 
-        TextView tx = (TextView) findViewById(R.id.textView11);
-        EditText edit = (EditText) findViewById(R.id.editText);
+        texto = (TextView) findViewById(R.id.textView11);
+        editor = (EditText) findViewById(R.id.editText);
+
 
         controle = params.getBoolean("controle");
-        if (controle == true){
-            tx.setText("Peso: ");
-            String valor = params.getString("valor");
-            edit.setText(valor);
-        }else{
-            tx.setText("Altura: ");
-            String valor = params.getString("valor");
-            edit.setText(valor);
-        }
+        //String editValue = params.getString("valor");
 
+        if (controle == true){
+            texto.setText("Peso: ");
+            String valor = params.getString("valor");
+            editor.setText(valor);
+        }else{
+            texto.setText("Altura: ");
+            String valor = params.getString("valor");
+            editor.setText(valor);
+        }
+        //editor.setText(editValue);
     }
 
     public void alterarDados(View v){
         Intent intent = new Intent(this, MainActivity.class);
-        Bundle params = getIntent().getExtras();
-        EditText edit = (EditText) findViewById(R.id.editText);
-        params.putString("valor", edit.getText().toString());
+        Bundle params = new Bundle();
+
+        params.putString("valor", editor.getText().toString());
         intent.putExtras(params);
+
         setResult(RESULT_OK, intent);
         finish();
     }

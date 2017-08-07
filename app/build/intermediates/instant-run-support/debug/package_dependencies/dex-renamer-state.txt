@@ -1,4 +1,4 @@
-#Thu Aug 03 21:04:53 GFT 2017
+#Mon Aug 07 08:11:46 GFT 2017
 file.2=C\:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3b2d96cc11a812fa7f489380410b8e9f3bdfcf3a\\classes.dex
 base.2=C\:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3b2d96cc11a812fa7f489380410b8e9f3bdfcf3a
 file.1=C\:\\Users\\fbio_\\AndroidStudioProjects\\CalculadoraIMC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_c14c6bd3f2a0fd4d9795328545b1d01509c83535\\classes.dex
