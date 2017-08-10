@@ -2402,10 +2402,10 @@ containing a value of this type.
         public static final int textView12=0x7f0b006a;
         public static final int textView2=0x7f0b005f;
         public static final int textView3=0x7f0b0060;
-        public static final int textView4=0x7f0b0062;
-        public static final int textView5=0x7f0b0064;
-        public static final int textView6=0x7f0b0061;
-        public static final int textView7=0x7f0b0063;
+        public static final int textView4=0x7f0b0061;
+        public static final int textView5=0x7f0b0062;
+        public static final int textView6=0x7f0b0063;
+        public static final int textView7=0x7f0b0064;
         public static final int textView8=0x7f0b0068;
         public static final int textView9=0x7f0b0069;
         public static final int time=0x7f0b007b;

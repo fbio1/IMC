@@ -152,6 +152,8 @@ public class MainActivity extends AppCompatActivity {
         }
 
         resultado.setText(String.format("Seu IMC é: %.2f " , IMC));
+
         mensagem1.setText("Seu grau é: " + mensagem);
+
     }
 }
