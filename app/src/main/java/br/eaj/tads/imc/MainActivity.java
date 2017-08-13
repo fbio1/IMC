@@ -33,33 +33,7 @@ public class MainActivity extends AppCompatActivity {
         altura = (TextView) findViewById(R.id.textView6);
         resultado = (TextView) findViewById(R.id.textView9);
         mensagem1 = (TextView) findViewById(R.id.textView12);
-
-
-//        SharedPreferences settings = getSharedPreferences(PREFS_NAME, MODE_PRIVATE );
-//        String peso_text = settings.getString(TV_PESO, "0.0");
-//        String altura_text = settings.getString(TV_ALTURA, "0.0");
-//        String result_text = settings.getString(TV_RESULTADO, "");
-//        String mensagem_text = settings.getString(TV_MENSAGEM, "");
-
-//        peso.setText(peso_text);
-//        altura.setText(altura_text);
-//        resultado.setText(result_text);
-//        mensagem1.setText(mensagem_text);
     }
-//
-//    @Override
-//    protected void onStop() {
-//        super.onStop();
-//
-//        SharedPreferences settings = getSharedPreferences(PREFS_NAME, MODE_PRIVATE);
-//        SharedPreferences.Editor editor = settings.edit();
-//        editor.putString(TV_PESO, peso.getText().toString());
-//        editor.putString(TV_ALTURA, altura.getText().toString());
-//        editor.putString(TV_RESULTADO, resultado.getText().toString());
-//        editor.putString(TV_MENSAGEM, mensagem1.getText().toString());
-//
-//        editor.commit();
-//    }
 
 
     @Override

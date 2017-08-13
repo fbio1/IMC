@@ -23,9 +23,7 @@ public class Main2Activity extends AppCompatActivity {
         texto = (TextView) findViewById(R.id.textView11);
         editor = (EditText) findViewById(R.id.editText);
 
-
         controle = params.getBoolean("controle");
-        //String editValue = params.getString("valor");
 
         if (controle == true){
             texto.setText("Peso: ");
@@ -36,7 +34,6 @@ public class Main2Activity extends AppCompatActivity {
             String valor = params.getString("valor");
             editor.setText(valor);
         }
-        //editor.setText(editValue);
     }
 
     public void alterarDados(View v){
